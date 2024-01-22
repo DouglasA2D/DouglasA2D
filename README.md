@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DouglasA2D
-- 👀 I’m interested in every type of akcnowleadge that may agregate on my Cyber security researchs.
-- 🌱 I’m currently learning Cyber Security
-- 💞️ I’m looking to collaborate on Cyber Security projects
-- 📫 How to reach me on itdouglas214@gmail.com or Instagram @arch2d
+- 👋 Hi, I’m @DouglasPedro
+- 👀 I’m interested in every type of akcnowleadge that may agregate on my devolping research.
+- 🌱 I’m currently learning Ruby
+- 💞️ I’m looking to collaborate on Ruby projects
+- 📫 How to reach me on itdouglas214@gmail.com
 
 <!---
 DouglasA2D/DouglasA2D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
